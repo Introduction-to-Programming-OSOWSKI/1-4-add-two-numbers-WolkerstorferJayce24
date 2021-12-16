@@ -2,4 +2,4 @@ def addTwoNumbers(x,y):
 
     return x + y
 
-print(addTwoNumbers(5,8))
+addTwoNumbers(5,8)
